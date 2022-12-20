@@ -24,6 +24,7 @@
 		ADF99E002951EA4D00635F9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADF99E032951EA4D00635F9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADF99E052951EA4D00635F9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADF99E0B2951EA9D00635F9F /* MyLibrary */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = MyLibrary; path = ../MyLibrary; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		ADF99DEB2951EA4C00635F9F = {
 			isa = PBXGroup;
 			children = (
+				ADF99E0B2951EA9D00635F9F /* MyLibrary */,
 				ADF99DF62951EA4C00635F9F /* PackageSample */,
 				ADF99DF52951EA4C00635F9F /* Products */,
 			);
